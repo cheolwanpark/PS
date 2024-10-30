@@ -1,1 +1,3 @@
-# 알고리즘 문제 풀이 레포지토리
+# Problem Solving
+[BOJ](https://www.acmicpc.net/)  
+[solved.ac profile](https://solved.ac/profile/cheolwan_park)  
